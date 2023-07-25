@@ -1,6 +1,8 @@
 # csharpInfoAPI
 Data script uploader, API tutorial, and Windows information gatherer wrote in C#. The gatherer collects the information from the system, and the script (ps1) uploads it to a jsonbin.io API.
+
 .................................
+
 At JSONBIN.IO (Create Bin and X-ACCESS-KEY)
 
 Create an account
@@ -35,6 +37,7 @@ Copy the API value. Will be something like:
 $2b$43$GWzx1ASdvR./J2oplsoPg.aSnJOshsyVzvji/quVISrgJSL/LsF
 
 .................................
+
 EXECUTION
 
 compile the C# file at the project folder. The command:
