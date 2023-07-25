@@ -48,6 +48,10 @@ Obs.: check if the .NET version installed at your computer is really like this e
 
 run gatherer.exe. I will generate a file called data.json.
 
+with a text editor or ide, open the script invoker.ps1.
+
+accordingly, replace the values at the variables $apiKey and $url
+
 run the script invoker.ps1. It will collect the data generated and send to your API.
 
 .................................
