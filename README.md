@@ -50,6 +50,8 @@ run gatherer.exe. I will generate a file called data.json.
 
 run the script invoker.ps1. It will collect the data generated and send to your API.
 
+.................................
+
 CHECK IF IT WORKED
 
 There are two ways to confirm if it worked well.
