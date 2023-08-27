@@ -13,7 +13,7 @@ Create a Bin
 
 You can choose (lock flag) if the the Bin is private or public. In this case it will be public.
 
-At Settings (engine flag) we can choose a Name and add the bin to a collection. We will do none of them. Let it without name (Untitled) and without collection.
+In Settings (engine flag) we can choose a Name and add the bin to a collection. We will do none of them. Let it without name (Untitled) and without collection.
 
 Bin cannot be blank. So just insert a sample value:
 {"sample": "Hello Worlde"}
