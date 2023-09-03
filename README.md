@@ -44,7 +44,7 @@ compile the C# file at the project folder. The command:
 
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /out:gatherer.exe gatherer.cs
 
-Obs.: check if the .NET version installed at your computer is really like this example, if not, get the right path
+Obs.: check if the .NET version installed at your computer is really like this example, if not, get the right path.
 
 run gatherer.exe. I will generate a file called data.json.
 
