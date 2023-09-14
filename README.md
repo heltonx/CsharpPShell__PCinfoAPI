@@ -36,7 +36,7 @@ Copy the API value. Will be something like:
 
 $2b$43$GWzx1ASdvR./J2oplsoPg.aSnJOshsyVzvji/quVISrgJSL/LsF
 
-.................................
+..................................
 
 EXECUTION
 
