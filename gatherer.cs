@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        // Gather system health information (for example, memory and processor details)
+        // Gather system health information (for example, memory and processor details):
         var memoryUsage = GetMemoryUsage();
         var processorUsage = GetProcessorUsage();
 
