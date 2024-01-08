@@ -31,10 +31,10 @@ class Program
     {
         // Code to get processor usage details from the system
         PerformanceCounter cpuCounter = new PerformanceCounter( "Processor" , "% Processor Time" , "_Total" ) ;
-        cpuCounter.NextValue ( ) ;
-        System.Threading.Thread.Sleep ( 1000 ) ; // Wait for a second to get a valid reading
-        float processorUsage = cpuCounter.NextValue ( ) ;
-        return processorUsage + " %" ;
+        cpuCounter.NextValue() ;
+        System.Threading.Thread.Sleep(1000) ; // Wait for a second to get a valid reading
+        float processorUsage = cpuCounter.NextValue() ;
+        return processorUsage + "%" ;
     }
 
     static void SaveDataToJsonFile (string filePath , string jsonData )
