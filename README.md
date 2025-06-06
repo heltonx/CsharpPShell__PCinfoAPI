@@ -1,5 +1,7 @@
 Last test: January 7, 2024 21:59
 
+codes made with help of chatgpt
+
 # csharpInfoAPI
 Data script uploader, API tutorial, and Windows information gatherer wrote in C#. The gatherer collects the information from the system, and the script (ps1) uploads it to a jsonbin.io API.
 
